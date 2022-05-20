@@ -2,8 +2,10 @@
 
 ### 連絡先
 [公式Twitter](https://twitter.com/Outisaba)
+
 [公式Discord](https://discord.gg/4SfWpZntMe)
-[Email(技術班長のメールアドレスです)](kencir.contact@gmail.com)
+
+Email(技術班長のメールアドレスです) kencir.contact@gmail.com
 
 <!--
 
