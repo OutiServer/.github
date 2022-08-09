@@ -5,8 +5,6 @@
 
 [公式Discord](https://discord.gg/4SfWpZntMe)
 
-Email(技術班長のメールアドレスです) kencir.contact@gmail.com
-
 <!--
 
 **Here are some ideas to get you started:**
