@@ -1,9 +1,6 @@
 ## おうち鯖の公式GitHub組織です
 
-### 連絡先
-[公式Twitter](https://twitter.com/Outisaba)
-
-[公式Discord](https://discord.gg/4SfWpZntMe)
+# おうち鯖は活動を停止しました
 
 <!--
 
